@@ -1,0 +1,13 @@
+{
+    "homeScreen": {
+        "headerText": "Browse Plans",
+        "location": "for Airtel Kolkata",
+        "inputPlaceholder":"Search Plan Amount, Talktime",
+        "menuHeaderText_1":"Best Offers for You",
+        "menuHeaderText_2":"Popular",
+        "menuHeaderText_3":"Special Recharge",
+        "button": "Select",
+        "validity":"Validity: ",
+        "data": "Data: "
+    }
+}
